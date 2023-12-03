@@ -1,5 +1,6 @@
 """Tests for Take home assessment part 2"""
 from unittest.mock import patch, MagicMock
+
 from test_2 import find_valid_court, display_user_info
 
 
