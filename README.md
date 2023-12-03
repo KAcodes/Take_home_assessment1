@@ -1,7 +1,11 @@
 # Repo Description
 
 These tasks form part of a take-home technical assessment using python:
-There are three different tasks to be run and each has a corresponding test
+There are three different tasks to be run and each has a corresponding test.
+Task 1 tests whether functions can validate a string to see if is a valid log.
+Sample logs show, test logs and output failures.
+Task 2 returns the nearest court information for a list of people using the MoJ API.
+Task 3 tests the sums of integers making up a timestamp.
 
 ## Installation 
 
